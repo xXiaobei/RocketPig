@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/peon/workStation/pythonVenv/rocketPig",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintPath": "/home/peon/workStation/pythonVenv/rocketPig/bin/pylint",
+    "python.linting.pylintArgs": ["--load-plugins","pylint_flask"]
+}
